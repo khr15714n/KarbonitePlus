@@ -1,16 +1,16 @@
 {
-     "NAME":"MKS",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/MKS/master/GameData/UmbraSpaceIndustries/MKS.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/MKS/releases"
+     "NAME":"Karbonite Plus",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/KarbonitePlus/master/GameData/UmbraSpaceIndustries/KPlus.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/KarbonitePlus/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"MKS",
+         "REPOSITORY":"KarbonitePlus",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
          "MAJOR":0,
-         "MINOR":20,
-         "PATCH":9,
+         "MINOR":1,
+         "PATCH":0,
          "BUILD":0
      },
      "KSP_VERSION":{
