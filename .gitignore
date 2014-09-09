@@ -1,1 +1,13 @@
 *.zip
+Source/KarbPlus/KarbPlus.v12.suo
+Source/KarbPlus/KarbPlus/bin/Debug/Assembly-CSharp-firstpass.dll
+Source/KarbPlus/KarbPlus/bin/Debug/Assembly-CSharp.dll
+Source/KarbPlus/KarbPlus/bin/Debug/KarbPlus.dll
+Source/KarbPlus/KarbPlus/bin/Debug/KarbPlus.pdb
+Source/KarbPlus/KarbPlus/bin/Debug/TDx.TDxInput.dll
+Source/KarbPlus/KarbPlus/bin/Debug/UnityEngine.dll
+Source/KarbPlus/KarbPlus/bin/Debug/Mono.Cecil.dll
+Source/KarbPlus/KarbPlus/bin/Debug/Mono.Security.dll
+Source/KarbPlus/KarbPlus/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Source/KarbPlus/KarbPlus/obj/Debug/KarbPlus.csproj.FileListAbsolute.txt
+Source/KarbPlus/KarbPlus/obj/Debug/KarbPlus.dll

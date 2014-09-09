@@ -1,10 +1,10 @@
 {
-     "NAME":"Karbonite Plus",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/KarbonitePlus/master/GameData/UmbraSpaceIndustries/KPlus.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/KarbonitePlus/releases"
+     "NAME":"Freight Transport Tech",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/FTT/master/GameData/UmbraSpaceIndustries/FTT.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/FTT/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"KarbonitePlus",
+         "REPOSITORY":"FTT",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
