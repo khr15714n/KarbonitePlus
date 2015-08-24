@@ -1,0 +1,9 @@
+v5.0 - 2015.08.24
+-----------------
+**NOTE:  LOTS OF CHANGES, DELETE YOUR OLD KarbonitePlus FOLDER!**
+Rebalanced all engines
+Deprecated the 5m Torch Drive
+Added a 1.25m Torch (Candle) Drive
+Added an extra large ore drill
+Deprecated the older K+ tanks in favor of new Kontainer-style tanks
+Added Karborundum harvesting capabilities to all Karbonite drills
