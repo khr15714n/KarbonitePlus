@@ -1,4 +1,9 @@
-v5.0 - 2015.08.24
+0.5.1 - 3015.10.16
+------------------
+Moved round tanks into Kontainers (you can find these in Karbonite now)
+Added a 2.5m Torch drive
+
+0.5.0 - 2015.08.24
 -----------------
 **NOTE:  LOTS OF CHANGES, DELETE YOUR OLD KarbonitePlus FOLDER!**
 Rebalanced all engines
